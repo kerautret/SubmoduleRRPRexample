@@ -1,3 +1,6 @@
 [submodule "DGtal"]
 	path = DGtal
 	url = git@github.com:DGtal-team/DGtal.git
+[submodule "RedirectRRPRSiteExample"]
+	path = RedirectRRPRSiteExample
+	url = git@github.com:kerautret/RedirectRRPRSiteExample.git
